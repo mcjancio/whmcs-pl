@@ -3,3 +3,98 @@ Dlaczego pytania bezpieczeństwa?
 Odmowa dostępu
 Konto
 Akceptuj zaproszenie
+Zaproszenie na konto zostało zaakceptowane!
+Skontaktuj się z administratorem konta, aby poprosić o nowe zaproszenie.
+Użytkownik z tym adresem e-mail już istnieje. Zaloguj się lub użyj innego adresu e-mail.
+:ot:senderName:ct udostępnił(a) Ci dostęp do konta :ot:clientName:ct.
+Aby zaakceptować zaproszenie, kliknij przycisk poniżej.
+Aby zaakceptować zaproszenie, zaloguj się lub zarejestruj poniżej.
+Przepraszamy, nie znaleźliśmy oczekującego zaproszenia pasującego do Twojego żądania.
+Akceptuj zaproszenie
+Twoje konto użytkownika jest już powiązane z kontem z zaproszenia
+Zaproszono Cię do :clientName
+Informacje o koncie
+Przegląd konta
+Statystyki konta
+Wybierz co najmniej jedną domenę, aby wykonać wybraną akcję.
+Akcje
+Aktywuj teraz za :price
+Dodaj hosting
+Dodaj kod promocyjny
+Dodaj do koszyka
+Dodaj, aby otrzymać darmową domenę
+Dodaj środki
+Kwota do dodania
+Dodaj środki do swojego konta u nas, aby uniknąć wielu drobnych transakcji i automatycznie opłacać nowo wystawiane faktury.
+Wpłać pieniądze z góry
+Maksymalna wpłata
+Maksymalne saldo
+Maksymalna kwota salda to
+Maksymalna kwota wpłaty to
+Minimalna wpłata
+Minimalna kwota wpłaty to
+* Wszystkie wpłaty są bezzwrotne.
+Dodatkowe informacje
+Dodaj więcej
+Dodatki i rozszerzenia
+Dodaj do koszyka
+Wróć do panelu administratora
+Jesteś obecnie zalogowany jako administrator.
+Obecnie przeglądasz konto jako klient.
+Będziesz mógł(-ła) zażądać wypłaty, gdy Twoje saldo osiągnie minimalną wymaganą kwotę :amountForWithdrawal.
+Twoje żądanie wypłaty nie powiodło się. Spróbuj ponownie później.
+Aktywuj konto partnerskie
+Kwota
+Aktualne saldo
+Otrzymaj początkowy bonus na swoim koncie partnerskim w wysokości
+od każdej płatności każdego klienta, którego nam polecisz, przez cały okres trwania jego konta hostingowego
+Kliknięcia
+Prowizja
+Dostępne saldo prowizji
+Prowizje oczekujące na rozliczenie
+Konwersje
+Dołącz do naszego programu partnerskiego lub zobacz zarobki
+Obecnie nie oferujemy naszym klientom systemu partnerskiego.
+Zarabiaj
+Łączne zarobki do tej pory
+Gdy polecisz kogoś na naszą stronę za pomocą swojego unikalnego identyfikatora polecającego, na jego komputerze zostanie zapisany plik cookie z tym identyfikatorem, więc jeśli doda stronę do zakładek i wróci później, nadal otrzymasz prowizję.
+Pakiet hostingowy
+Płacimy prowizję za każdą rejestrację dokonaną przez Twój indywidualny link polecający.
+Śledzimy polecanych przez Ciebie odwiedzających za pomocą plików cookie, więc polecone osoby nie muszą kupować od razu, abyś otrzymał(a) prowizję. Pliki cookie są ważne do 90 dni od pierwszej wizyty.
+Jeśli chcesz dowiedzieć się więcej, skontaktuj się z nami.
+Aktywuj konto partnerskie i zacznij zarabiać już dziś...
+Zarabiaj na polecaniu nam klientów
+Początkowo, potem
+Aktywuj dziś konto partnerskie, aby:
+Podlinkuj nas
+Nie masz jeszcze żadnych rejestracji
+Te statystyki są aktualizowane na bieżąco
+Twój unikalny link polecający
+Twoje polecenia
+Data rejestracji
+Zażądaj wypłaty
+Data zapisu
+Rejestracje
+Status
+Program partnerski
+Liczba poleconych odwiedzających
+Twoje żądanie wypłaty zostało przesłane. Wkrótce się z Tobą skontaktujemy.
+Łączna kwota wypłat
+Przejdź od razu do kasy &raquo;
+Jesteś w trakcie rejestracji, ale przed dodaniem wybranego produktu do koszyka musisz wybrać domenę...
+Wszystkie
+Wszelkie prawa zastrzeżone
+Najnowsze od
+Cennik wszystkich TLD
+Prawie gotowe
+Masz już konto?
+Wypisano Cię już z naszego newslettera.
+Kwota
+Według miesiąca
+Wybierz miesiąc
+Czytaj dalej
+Zobacz nasze najnowsze wiadomości i ogłoszenia
+Brak ogłoszeń do wyświetlenia
+Starsze ogłoszenia
+Zobacz kanał RSS
+Ogłoszenia
